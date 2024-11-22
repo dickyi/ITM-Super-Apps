@@ -15,6 +15,7 @@ public class Dasbor extends javax.swing.JFrame {
     public Dasbor() {
         initComponents();
     }
+    //
 
     /**
      * This method is called from within the constructor to initialize the form.
